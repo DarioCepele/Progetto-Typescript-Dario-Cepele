@@ -27,5 +27,5 @@ Questo progetto dimostra l'uso di interfacce e classi in TypeScript per modellar
 where you want :smiley:
 
 ```sh
-https://client-mu-umber.vercel.app/login](https://codepen.io/duff87/pen/mdYELVz
+https://codepen.io/duff87/pen/mdYELVz
 ```
