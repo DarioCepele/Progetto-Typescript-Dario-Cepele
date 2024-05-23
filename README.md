@@ -21,3 +21,11 @@ Il progetto è organizzato utilizzando interfacce e classi per rappresentare i d
 ## Conclusione
 
 Questo progetto dimostra l'uso di interfacce e classi in TypeScript per modellare un semplice sistema di gestione di startup, incentivi e cittadini. Utilizzando queste tecniche, è possibile creare codice tipizzato e manutenibile.
+
+## Test my app
+
+where you want :smiley:
+
+```sh
+https://client-mu-umber.vercel.app/login](https://codepen.io/duff87/pen/mdYELVz
+```
